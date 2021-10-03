@@ -1,6 +1,6 @@
-# Project 3 - Twitter
+# Project 3 - Twister
 
-Twitter is a basic app to read your tweets.
+Twister is a basic twitter app to read your tweets.
 
 Time spent: 7 hours spent in total
 
@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Lf6G3jy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/87943375/135738485-a4123759-98d5-45b6-907b-819bd3674067.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
+
 
 
 
